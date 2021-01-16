@@ -12,6 +12,8 @@ pkg install python
 
 git clone https://github.com/zhostyhacker/ZHSDDOS
 
+ls
+
 cd ZHSDDOS
 
 ls
