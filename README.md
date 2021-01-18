@@ -19,6 +19,8 @@ cd ZHSDDOS
 
 ls
 
+python zhsddos.py
+
 [+] Command to ddos attack:
 
 python3 zhsddos.py -s [IP] -p [PORT]
